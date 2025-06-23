@@ -1,1 +1,1 @@
-no
+binary
